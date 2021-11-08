@@ -1,0 +1,4 @@
+rateLimitType,interval,intervalNum,limit
+REQUEST_WEIGHT,MINUTE,1,1200
+ORDERS,SECOND,10,100
+ORDERS,DAY,1,200000

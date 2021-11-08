@@ -1,0 +1,539 @@
+Start time: 1611485856.351073
+time discretisation parameters
+time: 1611485857.3510978
+Number of time steps: 0
+Start time of previous time step: 1611485856.3510742
+time discretisation parameters
+time: 1611485858.3511531
+Number of time steps: 1
+Start time of previous time step: 1611485857.3511286
+time discretisation parameters
+time: 1611485859.3512151
+Number of time steps: 2
+Start time of previous time step: 1611485858.351188
+time discretisation parameters
+time: 1611485860.3512788
+Number of time steps: 3
+Start time of previous time step: 1611485859.351252
+time discretisation parameters
+time: 1611485861.3513596
+Number of time steps: 4
+Start time of previous time step: 1611485860.3513157
+time discretisation parameters
+time: 1611485862.3514233
+Number of time steps: 5
+Start time of previous time step: 1611485861.351402
+time discretisation parameters
+time: 1611485863.3514843
+Number of time steps: 6
+Start time of previous time step: 1611485862.351463
+time discretisation parameters
+time: 1611485864.3515425
+Number of time steps: 7
+Start time of previous time step: 1611485863.3515217
+time discretisation parameters
+time: 1611485865.3515978
+Number of time steps: 8
+Start time of previous time step: 1611485864.351582
+time discretisation parameters
+time: 1611485866.3516548
+Number of time steps: 9
+Start time of previous time step: 1611485865.3516273
+time discretisation parameters
+time: 1611485867.3517115
+Number of time steps: 10
+Start time of previous time step: 1611485866.351693
+time discretisation parameters
+time: 1611485868.3517625
+Number of time steps: 11
+Start time of previous time step: 1611485867.351746
+time discretisation parameters
+time: 1611485869.351805
+Number of time steps: 12
+Start time of previous time step: 1611485868.3517897
+time discretisation parameters
+time: 1611485870.3518567
+Number of time steps: 13
+Start time of previous time step: 1611485869.3518338
+time discretisation parameters
+time: 1611485871.351926
+Number of time steps: 14
+Start time of previous time step: 1611485870.351903
+time discretisation parameters
+time: 1611485872.351986
+Number of time steps: 15
+Start time of previous time step: 1611485871.3519652
+time discretisation parameters
+time: 1611485873.3520463
+Number of time steps: 16
+Start time of previous time step: 1611485872.35203
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485874.3521214
+Number of time steps: 17
+Start time of previous time step: 1611485873.3520713
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485875.352181
+Number of time steps: 18
+Start time of previous time step: 1611485874.3521495
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485876.3522522
+Number of time steps: 19
+Start time of previous time step: 1611485875.3522015
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485877.3523018
+Number of time steps: 20
+Start time of previous time step: 1611485876.352278
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485878.3523576
+Number of time steps: 21
+Start time of previous time step: 1611485877.3523173
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485879.3524284
+Number of time steps: 22
+Start time of previous time step: 1611485878.3523805
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485880.3524957
+Number of time steps: 23
+Start time of previous time step: 1611485879.3524559
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485881.352555
+Number of time steps: 24
+Start time of previous time step: 1611485880.3525245
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485882.352608
+Number of time steps: 25
+Start time of previous time step: 1611485881.3525734
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485883.3526523
+Number of time steps: 26
+Start time of previous time step: 1611485882.3526278
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485884.3527074
+Number of time steps: 27
+Start time of previous time step: 1611485883.352668
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485885.3527856
+Number of time steps: 28
+Start time of previous time step: 1611485884.3527303
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485886.3528585
+Number of time steps: 29
+Start time of previous time step: 1611485885.3528118
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485887.3529093
+Number of time steps: 30
+Start time of previous time step: 1611485886.3528829
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485888.3529544
+Number of time steps: 31
+Start time of previous time step: 1611485887.3529303
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485889.3530104
+Number of time steps: 32
+Start time of previous time step: 1611485888.3529708
+trading interval parameters
+number of trading intervals: 1
+one or more trading interval has passed implement trading logic
+Current opening price: 150
+Previous opening price: 100
+Previous closing price: 150
+time discretisation parameters
+time: 1611485890.3530877
+Number of time steps: 33
+Start time of previous time step: 1611485889.3530335
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485891.3533533
+Number of time steps: 34
+Start time of previous time step: 1611485890.3531191
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485892.3534124
+Number of time steps: 35
+Start time of previous time step: 1611485891.3533783
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485893.353456
+Number of time steps: 36
+Start time of previous time step: 1611485892.3534317
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485894.3535254
+Number of time steps: 37
+Start time of previous time step: 1611485893.353474
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485895.353606
+Number of time steps: 38
+Start time of previous time step: 1611485894.3535514
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485896.35368
+Number of time steps: 39
+Start time of previous time step: 1611485895.3536339
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485897.3537498
+Number of time steps: 40
+Start time of previous time step: 1611485896.353711
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485898.3538084
+Number of time steps: 41
+Start time of previous time step: 1611485897.353776
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485899.3538702
+Number of time steps: 42
+Start time of previous time step: 1611485898.3538325
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485900.3539422
+Number of time steps: 43
+Start time of previous time step: 1611485899.3538911
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485901.3540044
+Number of time steps: 44
+Start time of previous time step: 1611485900.353966
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485902.3540628
+Number of time steps: 45
+Start time of previous time step: 1611485901.3540306
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485903.3541117
+Number of time steps: 46
+Start time of previous time step: 1611485902.354084
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485904.3541741
+Number of time steps: 47
+Start time of previous time step: 1611485903.3541286
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485905.354251
+Number of time steps: 48
+Start time of previous time step: 1611485904.3541994
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485906.3543153
+Number of time steps: 49
+Start time of previous time step: 1611485905.3542762
+trading interval parameters
+number of trading intervals: 2
+one or more trading interval has passed implement trading logic
+Current opening price: 230
+Previous opening price: 150
+Previous closing price: 230
+time discretisation parameters
+time: 1611485907.3543952
+Number of time steps: 50
+Start time of previous time step: 1611485906.3543394
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485908.3544552
+Number of time steps: 51
+Start time of previous time step: 1611485907.3544168
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485909.3545072
+Number of time steps: 52
+Start time of previous time step: 1611485908.3544757
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485910.3545513
+Number of time steps: 53
+Start time of previous time step: 1611485909.3545263
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485911.354599
+Number of time steps: 54
+Start time of previous time step: 1611485910.3545692
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485912.3546638
+Number of time steps: 55
+Start time of previous time step: 1611485911.3546195
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485913.3547244
+Number of time steps: 56
+Start time of previous time step: 1611485912.354688
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485914.3547888
+Number of time steps: 57
+Start time of previous time step: 1611485913.3547437
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485915.3550236
+Number of time steps: 58
+Start time of previous time step: 1611485914.3548138
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485916.3550932
+Number of time steps: 59
+Start time of previous time step: 1611485915.3550522
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485917.355155
+Number of time steps: 60
+Start time of previous time step: 1611485916.3551161
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485918.3552322
+Number of time steps: 61
+Start time of previous time step: 1611485917.355176
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485919.3553164
+Number of time steps: 62
+Start time of previous time step: 1611485918.3552623
+trading interval parameters
+number of trading intervals: 3
+one or more trading interval has passed implement trading logic
+Current opening price: 40
+Previous opening price: 230
+Previous closing price: 40
+time discretisation parameters
+time: 1611485920.355395
+Number of time steps: 63
+Start time of previous time step: 1611485919.3553684
